@@ -1,0 +1,1000 @@
+company_name,ric_code,esg_score,environment_scores,social_scores,governance_scores,ranks,total_industries
+Kimball Electronics Inc,KE.O,55,37,82,29,81,232
+Importadora y Exportadora de la Patagonia SA,PATA.BA,15,7,20,14,138,151
+Sociedad Comercial del Plata SA,COME.BA,13,0,12,35,360,410
+Unipar Indupa SAIC,INDU.BA,14,1,2,56,306,326
+Molinos Juan Semino SA,SEMI.BA,11,10,8,16,351,375
+Ledesma SAAI,LEDE.BA,46,56,45,35,194,375
+Holcim Argentina SA,HARG.BA,67,59,79,63,17,85
+Aluar Aluminio Argentino SAIC,ALUA.BA,20,20,28,6,422,555
+Garovaglio y Zorraquin SA,GARO.BA,4,4,1,11,373,375
+Molinos Rio de la Plata SA,MOLI.BA,65,59,79,48,89,375
+Ferrum SA de Ceramica y Metalurgia,FERR.BA,27,21,21,43,121,157
+Banco Bbva Argentina SA,BBAR.BA,74,64,72,81,88,996
+Central Puerto SA,CEPU.BA,47,43,37,67,131,263
+Compania de Transporte de Energia Electrica en Alta Tension Transener SA,TRAN.BA,32,33,28,35,204,263
+Telecom Argentina SA,TECO2.BA,67,63,75,53,50,263
+YPF SA,YPFD.BA,64,50,61,88,68,410
+Banco Patagonia SA,BPAT.BA,44,27,54,38,432,996
+Celulosa Argentina SA,CELU5.BA,6,9,4,4,74,74
+Capex SA,CAPX.BA,29,23,11,64,218,263
+Ternium Argentina SA,TXAR.BA,44,34,40,64,264,555
+Carboclor SA,CARC.BA,15,4,16,31,301,326
+Naturgy BAN SA,GBAN.BA,80,82,71,92,1,57
+Cresud SACIF y A,CRES.BA,44,55,20,72,210,375
+Agrometal SAI,AGRO.BA,15,1,2,49,518,554
+SA San Miguel AGICI y F,SAMI.BA,60,46,64,67,116,375
+Boldt SA,BOLT.BA,15,11,18,15,403,443
+Dycasa SA,DYCA.BA,22,15,25,28,196,224
+Carlos Casado SA,CADO.BA,29,7,35,44,272,375
+Banco Hipotecario SA,BHIP.BA,65,18,83,58,160,996
+Banco Macro SA,BMA.BA,55,55,63,45,254,996
+Grupo Financiero Galicia SA,GGAL.BA,66,81,80,41,149,996
+Enel Generacion Costanera SA,CECO2.BA,67,59,79,64,54,263
+Grupo Clarin SA,GCLA.BA,52,37,55,53,64,256
+Mirgor SACIFIA,MIRG.BA,10,5,17,1,104,110
+MetroGAS SA,METR.BA,43,28,38,74,32,57
+Empresa Distribuidora y Comercializadora Norte SA,EDN.BA,46,29,41,81,139,263
+Distribuidora de Gas Cuyana SA,DGCU2.BA,13,5,9,30,54,57
+Morixe Hermanos SACI,MORI.BA,6,0,6,14,367,375
+Grupo Concesionario del Oeste SA,OEST.BA,42,22,55,42,63,100
+Mercadolibre Inc,MELI.O,54,63,77,31,191,813
+Transportadora de Gas del Sur SA,TGSU2.BA,59,46,68,62,95,410
+Longvie SA,LONG.BA,20,40,1,22,59,71
+Pampa Energia SA,PAMP.BA,59,46,52,91,81,263
+Commonwealth Bank of Australia,CBA.AX,87,82,87,90,11,996
+Camuzzi Gas Pampeana SA,CGPA2.BA,11,3,15,17,55,57
+Brickworks Ltd,BKW.AX,51,43,52,63,38,85
+Bank of Queensland Ltd,BOQ.AX,74,69,67,85,91,996
+Transportadora de Gas del Norte SA,TGNO2.BA,47,35,45,66,102,219
+GUD Holdings Ltd,GUD.AX,27,7,30,50,183,231
+Harvey Norman Holdings Ltd,HVN.AX,37,12,40,56,70,111
+Hills Ltd,HIL.AX,44,30,34,67,187,443
+Macmahon Holdings Ltd,MAH.AX,49,46,51,49,232,555
+Premier Investments Ltd,PMV.AX,42,5,45,57,146,266
+Perpetual Ltd,PPT.AX,75,68,68,82,30,375
+Washington H Soul Pattinson and Company Ltd,SOL.AX,34,4,34,76,31,55
+Suncorp Group Ltd,SUN.AX,80,80,80,80,11,305
+Village Roadshow Ltd,VRL.AX,44,35,33,69,150,322
+Reject Shop Ltd,TRS.AX,46,20,55,59,55,111
+Iluka Resources Ltd,ILU.AX,68,57,65,88,100,555
+Infomedia Ltd,IFM.AX,50,2,48,66,234,813
+Focus Minerals Ltd,FML.AX,18,9,12,40,445,555
+Iress Ltd,IRE.AX,57,46,68,51,7,34
+Metals X Ltd,MLX.AX,11,0,13,23,509,555
+Bionomics Ltd,BNO.AX,27,0,49,25,313,538
+Collection House Ltd,CLH.AX,55,0,58,72,256,996
+Elders Ltd,ELD.AX,50,35,45,75,166,375
+Pendal Group Ltd,PDL.AX,66,64,61,71,56,375
+Arafura Resources Ltd,ARU.AX,15,4,15,29,477,555
+Clinuvel Pharmaceuticals Ltd,CUV.AX,34,0,46,42,187,376
+Bellevue Gold Ltd,BGL.AX,18,2,25,28,446,555
+Phoslock Environmental Technologies Ltd,PET.AX,29,33,19,38,430,558
+Domino's Pizza Enterprises Ltd,DMP.AX,71,50,78,80,41,322
+Hansen Technologies Ltd,HSN.AX,23,0,40,15,665,813
+Navigator Global Investments Ltd,NGI.AX,31,0,42,30,268,375
+Aurelia Metals Ltd,AMI.AX,31,19,31,50,333,555
+Slater & Gordon Ltd,SGH.AX,20,5,30,16,370,443
+MC Mining Ltd,MCM.AX,42,41,46,40,24,55
+Woolworths Group Ltd,WOW.AX,71,66,89,47,24,151
+AMP Ltd,AMP.AX,64,83,59,63,61,375
+Orica Ltd,ORI.AX,52,50,54,51,137,326
+Australia and New Zealand Banking Group Ltd,ANZ.AX,88,65,90,93,6,996
+McPherson's Ltd,MCP.AX,16,0,12,39,85,94
+LendLease Group,LLC.AX,75,89,80,58,27,400
+Senex Energy Ltd,SXY.AX,41,33,34,64,179,410
+Origin Energy Ltd,ORG.AX,65,54,64,86,59,263
+Westpac Banking Corp,WBC.AX,74,81,79,65,86,996
+Magnis Energy Technologies Ltd,MNS.AX,14,5,17,19,485,555
+Brambles Ltd,BXB.AX,70,64,66,86,13,64
+Jupiter Mines Ltd,JMS.AX,9,5,14,6,527,555
+Omni Bridgeway Ltd,OBL.AX,35,8,37,42,599,996
+Mcmillan Shakespeare Ltd,MMS.AX,53,20,59,56,280,996
+Blackmores Ltd,BKL.AX,84,85,92,69,10,375
+Alumina Ltd,AWC.AX,35,28,45,30,311,555
+Seven West Media Ltd,SWM.AX,41,19,50,38,113,256
+Ovato Ltd,OVT.AX,35,34,36,36,256,443
+Ridley Corporation Ltd,RIC.AX,44,25,36,79,205,375
+Sims Ltd,SGM.AX,70,67,59,91,90,555
+St Barbara Ltd,SBM.AX,65,65,72,53,120,555
+REA Group Ltd,REA.AX,44,44,63,27,323,813
+Pro Medicus Ltd,PME.AX,30,41,30,26,201,329
+Cyclone Metals Ltd,CLE.AX,17,5,20,30,453,555
+White Energy Company Ltd,WEC.AX,27,15,29,42,40,55
+Starpharma Holdings Ltd,SPL.AX,49,34,60,44,124,376
+Nearmap Ltd,NEA.AX,31,32,35,27,529,813
+Western Areas Ltd,WSA.AX,47,34,42,74,239,555
+Pilbara Minerals Ltd,PLS.AX,40,31,37,59,282,555
+Danakali Ltd,DNK.AX,20,10,26,27,286,326
+Tassal Group Ltd,TGR.AX,67,45,71,85,72,375
+Decmil Group Ltd,DCG.AX,31,29,35,30,163,224
+FAR Ltd,FAR.AX,26,18,37,18,255,410
+HT&E Ltd,HT1.AX,48,9,48,61,90,256
+Rex Minerals Ltd,RXM.AX,19,19,11,34,428,555
+CSL Ltd,CSL.AX,78,39,92,86,20,376
+Greenland Minerals Ltd,GGG.AX,8,0,9,17,535,555
+Dexus,DXS.AX,92,93,96,87,1,452
+Accent Group Ltd,AX1.AX,48,10,64,49,118,266
+Siv Capital Ltd,SIV.AX,13,0,18,16,414,443
+Prime Media Group Ltd,PRT.AX,44,0,41,62,104,256
+Rio Tinto Ltd,RIO.AX,81,78,91,68,24,555
+Coca-Cola Amatil Ltd,CCL.AX,72,70,80,57,22,112
+Charter Hall Retail REIT,CQR.AX,46,55,69,15,206,452
+Bendigo and Adelaide Bank Ltd,BEN.AX,58,80,56,52,230,996
+Tap Oil Ltd,TAP.AX,16,7,10,38,346,410
+Cochlear Ltd,COH.AX,59,37,72,52,72,329
+CSR Ltd,CSR.AX,53,62,49,42,34,85
+Sonic Healthcare Ltd,SHL.AX,73,81,74,67,16,181
+Ansell Ltd,ANN.AX,76,46,75,91,22,329
+BHP Group Ltd,BHP.AX,87,81,87,97,3,555
+Australian Ethical Investment Ltd,AEF.AX,60,69,73,46,85,375
+Emeco Holdings Ltd,EHL.AX,28,27,39,14,321,443
+Berkeley Energia Ltd,BKY.AX,34,54,33,7,9,15
+ALS Ltd,ALQ.AX,76,59,78,86,32,443
+Alkane Resources Ltd,ALK.AX,27,30,23,30,353,555
+Telstra Corporation Ltd,TLS.AX,83,68,88,83,6,263
+Carnarvon Petroleum Ltd,CVN.AX,23,5,18,55,283,410
+Select Harvests Ltd,SHV.AX,49,43,54,48,176,375
+Energy World Corporation Ltd,EWC.AX,5,3,2,11,261,263
+Immutep Ltd,IMM.AX,27,0,60,16,311,538
+Molopo Energy Ltd,MPO.AX,12,0,17,19,372,410
+Mount Gibson Iron Ltd,MGX.AX,41,35,43,47,279,555
+Whitehaven Coal Ltd,WHC.AX,51,33,48,79,17,55
+OceanaGold Corp,OGC.AX,65,54,74,66,118,555
+Jumbo Interactive Ltd,JIN.AX,38,24,42,45,183,322
+Credit Corp Group Ltd,CCP.AX,55,4,60,70,250,996
+Silver Lake Resources Ltd,SLR.AX,12,5,12,24,496,555
+Pharmaxis Ltd,PXS.AX,39,0,60,37,174,376
+GPT Group,GPT.AX,84,90,79,81,16,452
+Panoramic Resources Ltd,PAN.AX,19,9,23,26,437,555
+Ampol Ltd,ALD.AX,71,60,74,83,35,410
+A2B Australia Ltd,A2B.AX,34,17,41,43,79,114
+Santos Ltd,STO.AX,44,52,41,40,159,410
+Pure Foods Tasmania Ltd,PFT.AX,8,0,11,11,363,375
+Boral Ltd,BLD.AX,68,73,71,57,11,85
+Insurance Australia Group Ltd,IAG.AX,78,41,84,84,17,305
+Reckon Ltd,RKN.AX,25,0,19,37,627,813
+OM Holdings Ltd,OMH.AX,23,0,30,45,390,555
+Adbri Ltd,ABC.AX,50,53,39,63,39,85
+Alterity Therapeutics Ltd,ATH.AX,31,0,58,27,242,538
+Nanosonics Ltd,NAN.AX,69,42,70,81,42,329
+GWA Group Ltd,GWA.AX,52,60,44,55,61,157
+Pinnacle Investment Management Group Ltd,PNI.AX,39,2,59,33,221,375
+Metcash Ltd,MTS.AX,54,39,47,78,58,151
+Integrated Research Ltd,IRI.AX,40,0,50,44,383,813
+Tabcorp Holdings Ltd,TAH.AX,71,70,84,53,40,322
+Altura Mining Ltd,AJM.AX,9,2,12,19,316,326
+Resolute Mining Ltd,RSG.AX,44,42,39,55,256,555
+IGO Ltd,IGO.AX,69,69,65,77,92,555
+Flinders Mines Ltd,FMS.AX,17,5,15,36,457,555
+Australian Agricultural Company Ltd,AAC.AX,33,20,15,77,258,375
+Electro Optic Systems Holdings Ltd,EOS.AX,20,0,31,20,97,109
+Spark Infrastructure Group,SKI.AX,43,32,43,62,151,263
+Cooper Energy Ltd,COE.AX,37,14,27,89,193,410
+Ainsworth Game Technology Ltd,AGI.AX,23,6,22,41,251,322
+Mortgage Choice Ltd,MOC.AX,44,2,41,65,430,996
+Vocus Group Ltd,VOC.AX,39,57,28,48,140,263
+Medical Developments International Ltd,MVP.AX,14,0,18,19,354,376
+Ramelius Resources Ltd,RMS.AX,35,25,25,68,308,555
+Champion Iron Ltd,CIA.TO,66,89,67,32,111,555
+Cardno Ltd,CDD.AX,40,38,38,47,126,224
+Galaxy Resources Ltd,GXY.AX,50,26,62,64,224,555
+Aristocrat Leisure Ltd,ALL.AX,47,45,50,42,140,322
+Coles Group Ltd,COL.AX,64,61,88,29,37,151
+National Australia Bank Ltd,NAB.AX,87,83,88,87,12,996
+Mirvac Group,MGR.AX,89,96,80,88,8,452
+Woodside Petroleum Ltd,WPL.AX,71,59,81,70,37,410
+Dotz Nano Ltd,DTZ.AX,12,0,21,17,115,120
+Northern Star Resources Ltd,NST.AX,63,47,66,83,132,555
+Newcrest Mining Ltd,NCM.AX,68,58,70,81,96,555
+Seek Ltd,SEK.AX,39,30,29,57,229,443
+Wesfarmers Ltd,WES.AX,66,84,92,24,25,111
+CIMIC Group Ltd,CIM.AX,64,60,82,45,50,224
+Eagers Automotive Ltd,APE.AX,27,8,38,23,224,266
+Alexium International Group Ltd,AJX.AX,12,0,17,25,310,326
+Oil Search Ltd,OSH.AX,63,42,76,72,71,410
+Fortescue Metals Group Ltd,FMG.AX,70,70,86,43,85,555
+Blue Star Helium Ltd,BNL.AX,6,0,4,17,321,326
+ARB Corp Ltd,ARB.AX,34,34,32,38,161,231
+Prodigy Gold NL,PRX.AX,19,8,21,31,434,555
+Future Generation Investment Company Ltd,FGX.AX,20,0,22,24,326,375
+Perenti Global Ltd,PRN.AX,57,46,60,66,176,555
+Australian Pharmaceutical Industries Ltd,API.AX,49,15,49,75,71,151
+Austal Ltd,ASB.AX,50,63,30,62,243,554
+Beach Energy Ltd,BPT.AX,66,50,74,74,61,410
+Horizon Oil Ltd,HZN.AX,13,8,12,24,361,410
+Aspen Group Ltd,APZ.AX,27,14,28,37,312,400
+Cash Converters International Ltd,CCV.AX,32,0,32,49,200,266
+Cedar Woods Properties Ltd,CWP.AX,52,28,73,53,145,400
+Opthea Ltd,OPT.AX,27,0,25,46,318,538
+Cromwell Property Group,CMW.AX,73,65,76,76,31,400
+Computershare Ltd,CPU.AX,65,52,65,70,79,813
+Data#3 Ltd,DTL.AX,52,2,51,67,214,813
+Downer EDI Ltd,DOW.AX,67,62,56,88,41,224
+Flight Centre Travel Group Ltd,FLT.AX,39,52,37,32,174,322
+Fleetwood Ltd,FWD.AX,26,1,29,55,125,157
+Red 5 Ltd,RED.AX,23,22,23,24,387,555
+Grange Resources Ltd,GRR.AX,30,19,24,55,337,555
+Graincorp Ltd,GNC.AX,43,48,41,43,211,375
+Breville Group Ltd,BRG.AX,49,39,61,44,31,71
+Hillgrove Resources Ltd,HGO.AX,23,13,24,37,384,555
+Bubs Australia Ltd,BUB.AX,12,2,14,19,344,375
+Imdex Ltd,IMD.AX,51,35,69,47,208,555
+Kingsgate Consolidated Ltd,KCN.AX,18,11,19,26,441,555
+Regis Resources Ltd,RRL.AX,43,35,31,76,265,555
+Lynas Rare Earths Ltd,LYC.AX,66,42,83,75,107,555
+MaxiTRANS Industries Ltd,MXI.AX,19,0,20,41,206,231
+MMA Offshore Ltd,MRM.AX,54,39,47,82,72,219
+Polynovo Ltd,PNV.AX,34,2,45,34,180,329
+Monadelphous Group Ltd,MND.AX,45,34,59,41,107,224
+Mincor Resources NL,MCR.AX,24,0,26,53,381,555
+City Chic Collective Ltd,CCX.AX,34,3,55,27,194,266
+Paladin Energy Ltd,PDN.AX,52,52,56,48,6,15
+OZ Minerals Ltd,OZL.AX,73,80,70,68,63,555
+Altium Ltd,ALU.AX,55,20,46,74,182,813
+Ramsay Health Care Ltd,RHC.AX,86,76,88,89,3,181
+Healius Ltd,HLS.AX,58,56,37,85,37,181
+Pacific Current Group Ltd,PAC.AX,47,32,37,60,168,375
+Webjet Ltd,WEB.AX,33,24,36,38,202,322
+Sigma Healthcare Ltd,SIG.AX,53,47,47,67,64,151
+Saracen Mineral Holdings Ltd,SAR.AX,47,27,45,78,240,555
+Freedom Foods Group Ltd,FNP.AX,37,24,44,37,241,375
+WPP Aunz Ltd,WPP.AX,29,4,44,18,171,256
+Sundance Resources Ltd,SDL.AX,12,0,14,27,495,555
+Silex Systems Ltd,SLX.AX,23,38,13,24,192,232
+AIC Mines Ltd,A1M.AX,13,0,22,17,488,555
+Tanami Gold NL,TAM.AX,10,3,9,21,518,555
+Sunland Group Ltd,SDG.AX,26,0,34,42,316,400
+IOOF Holdings Ltd,IFL.AX,59,45,51,71,91,375
+iSignthis Ltd,ISX.AX,21,0,28,20,547,593
+NIB Holdings Ltd,NHF.AX,66,31,68,76,54,305
+Melbana Energy Ltd,MAY.AX,20,6,15,49,306,410
+Troy Resources Ltd,TRY.AX,13,14,11,14,492,555
+Avecho Biotechnology Ltd,AVE.AX,21,0,36,22,425,538
+Westgold Resources Ltd,WGX.AX,38,39,31,47,293,555
+Challenger Ltd,CGF.AX,56,65,76,29,98,305
+Platinum Asset Management Ltd,PTM.AX,51,27,45,63,148,375
+Karoon Energy Ltd,KAR.AX,29,9,28,61,239,410
+Retail Food Group Ltd,RFG.AX,17,0,25,19,324,375
+Nick Scali Ltd,NCK.AX,22,0,26,29,243,266
+Charter Hall Group,CHC.AX,76,65,88,74,23,400
+BWP Trust,BWP.AX,19,29,17,10,399,452
+Money3 Corp Ltd,MNY.AX,33,9,39,34,635,996
+NRW Holdings Ltd,NWH.AX,37,26,36,52,141,224
+Mineral Resources Ltd,MIN.AX,66,72,69,55,106,555
+JB Hi-Fi Ltd,JBH.AX,51,36,59,49,105,266
+AGL Energy Ltd,AGL.AX,55,40,47,92,20,44
+Donaco International Ltd,DNA.AX,13,0,14,23,297,322
+Kingsrose Mining Ltd,KRM.AX,17,9,22,22,452,555
+Webcentral Group Ltd,WCG.AX,34,15,57,20,486,813
+Servcorp Ltd,SRV.AX,40,19,49,51,218,400
+Incitec Pivot Ltd,IPL.AX,66,55,64,89,67,326
+TechnologyOne Ltd,TNE.AX,57,25,75,51,162,813
+Abacus Property Group,ABP.AX,71,90,75,46,49,452
+BCI Minerals Ltd,BCI.AX,14,7,19,15,483,555
+Praemium Ltd,PPS.AX,26,5,44,15,26,34
+Magellan Financial Group Ltd,MFG.AX,33,20,61,14,261,375
+Medusa Mining Ltd,MML.AX,21,13,18,40,403,555
+Renu Energy Ltd,RNE.AX,16,20,12,14,244,263
+Vita Group Ltd,VTG.AX,45,0,46,65,136,266
+Ingenia Communities Group,INA.AX,61,36,86,57,99,400
+Brookside Energy Ltd,BRK.AX,8,3,7,20,395,410
+Syrah Resources Ltd,SYR.AX,50,29,59,67,219,555
+Energy Resources Of Australia Ltd,ERA.AX,44,50,38,41,7,15
+Acrux Ltd,ACR.AX,30,0,29,53,215,376
+Liquefied Natural Gas Ltd,LNG.AX,30,12,25,64,236,410
+EML Payments Ltd,EML.AX,34,0,28,67,266,443
+Perseus Mining Ltd,PRU.AX,56,45,79,36,182,555
+Ioneer Ltd,INR.AX,20,9,15,46,412,555
+Humm Group Ltd,HUM.AX,57,50,40,83,238,996
+Evolution Mining Ltd,EVN.AX,49,57,52,31,231,555
+AUB Group Ltd,AUB.AX,45,16,36,65,152,305
+Hub24 Ltd,HUB.AX,15,0,30,7,349,375
+Qube Holdings Ltd,QUB.AX,57,33,58,82,33,100
+QBE Insurance Group Ltd,QBE.AX,77,89,87,61,24,305
+Central Petroleum Ltd,CTP.AX,17,5,16,37,334,410
+Qantas Airways Ltd,QAN.AX,72,68,66,84,12,114
+Gold Road Resources Ltd,GOR.AX,82,79,83,84,21,555
+Codan Ltd,CDA.AX,38,14,52,55,76,120
+Crown Resorts Ltd,CWN.AX,55,81,42,51,98,322
+Orocobre Ltd,ORE.AX,64,53,69,73,127,302
+Austin Engineering Ltd,ANG.AX,20,2,33,26,489,554
+Capitol Health Ltd,CAJ.AX,34,0,34,50,116,181
+Boart Longyear Ltd,BLY.AX,50,26,57,74,218,555
+New Hope Corporation Ltd,NHC.AX,46,51,57,29,22,55
+Charter Hall Social Infrastructure REIT,CQE.AX,21,24,30,9,392,452
+Los Cerros Ltd,LCL.AX,7,1,13,5,542,555
+Sandfire Resources Ltd,SFR.AX,76,62,83,83,48,555
+Thorn Group Ltd,TGA.AX,34,0,31,52,620,996
+G8 Education Ltd,GEM.AX,27,7,30,40,70,94
+BlueScope Steel Ltd,BSL.AX,72,65,76,76,72,555
+Worley Ltd,WOR.AX,70,80,77,48,27,219
+Clean TeQ Holdings Ltd,CLQ.AX,13,5,13,25,287,337
+Super Retail Group Ltd,SUL.AX,78,69,79,81,15,266
+Cleanaway Waste Management Ltd,CWY.AX,53,46,52,60,139,443
+AMA Group Ltd,AMA.AX,23,10,15,52,76,94
+InvoCare Ltd,IVC.AX,48,33,35,88,42,94
+Nufarm Ltd,NUF.AX,59,51,48,92,111,326
+Mesoblast Ltd,MSB.AX,25,0,43,26,343,538
+Mayne Pharma Group Ltd,MYX.AX,61,30,70,70,75,376
+ImpediMed Ltd,IPD.AX,30,3,29,45,203,329
+CA Immobilien Anlagen AG,CAIV.VI,66,43,74,80,66,400
+UNIQA Insurance Group AG,UNIQ.VI,50,67,38,58,132,305
+Semperit AG Holding,SMPV.VI,48,35,72,28,114,231
+voestalpine AG,VOES.VI,67,69,71,58,104,555
+S Immo AG,SIAG.VI,28,16,47,19,301,400
+Flughafen Wien AG,VIEV.VI,49,72,44,34,48,100
+Kapsch Trafficcom AG,KTCG.VI,68,49,80,67,16,124
+ams AG,AMS.S,55,31,56,81,76,232
+Agrana Beteiligungs AG,AGRV.VI,54,51,57,55,141,375
+Immofinanz AG,IMFI.VI,59,57,72,48,107,400
+OMV AG,OMVV.VI,81,74,83,89,8,410
+Vienna Insurance Group AG Wiener Versicherung Gruppe,VIGR.VI,66,66,60,73,57,305
+S&T AG,SANT1.DE,58,41,58,64,150,813
+Lenzing AG,LENV.VI,53,48,56,57,132,326
+DO & CO AG,DOCO.VI,48,72,44,31,53,100
+EVN AG,EVNV.VI,63,73,75,30,67,263
+Palfinger AG,PALF.VI,58,63,73,34,174,554
+AT & S Austria Technologie & Systemtechnik AG,ATSV.VI,57,35,74,56,70,232
+Telekom Austria AG,TELA.VI,66,64,77,46,52,263
+Porr AG,ABGV.VI,72,82,81,46,24,224
+Schoeller Bleckmann Oilfield Equipment AG,SBOE.VI,56,52,45,75,68,219
+Verbund AG,VERB.VI,77,88,75,61,25,263
+Wienerberger AG,WBSV.VI,68,69,73,61,13,85
+Mayr Melnhof Karton AG,MMKV.VI,52,33,63,63,31,64
+Oesterreichische Post AG,POST.VI,71,73,67,75,17,175
+Atrium European Real Estate Ltd,ATRS.VI,29,37,39,10,294,400
+Andritz AG,ANDR.VI,77,75,77,78,46,554
+Investcorp Holdings BSC,INVB.BH,28,0,40,27,282,375
+Raiffeisen Bank International AG,RBIV.VI,65,61,87,37,155,996
+Zumtobel Group AG,ZUMV.VI,62,39,76,71,145,554
+National Bank of Bahrain BSC,NATB.BH,72,57,74,75,105,996
+Gulf Hotel Group BSC,GHG.BH,30,3,22,66,219,322
+Bahrain Commercial Facilities Co BSC,BCFC.BH,19,0,10,39,917,996
+Bahrain Duty Free Shop Complex BSC,DUTY.BH,15,0,12,36,95,100
+Inovest BSC Public,INOV.BH,21,0,5,40,323,375
+Bahrain Kuwait Insurance Co BSC,BKIC.BH,13,0,12,17,296,305
+Ackermans & Van Haaren NV,ACKB.BR,35,51,22,32,149,224
+Etablissementen Franz Colruyt NV,COLR.BR,55,87,56,28,55,151
+D'Ieteren NV,IETB.BR,74,75,73,73,21,266
+Cofinimmo SA,COFB.BR,77,79,68,82,32,452
+Fagron NV,FAGRO.BR,64,51,78,53,69,376
+Barco NV,BAR.BR,66,73,78,44,21,120
+Sofina SA,SOF.BR,15,0,44,10,45,54
+Montea Comm VA,MONTE.BR,47,29,43,68,195,400
+Aannemingsmaatschappij CFE NV,CFEB.BR,54,61,57,39,84,224
+Umicore SA,UMI.BR,77,87,74,63,28,326
+Econocom Group SE,ECONB.BR,30,55,43,11,545,813
+Recticel NV,RECT.BR,44,47,38,49,167,326
+Befimmo SA,BEFB.BR,68,94,60,44,75,452
+Galapagos NV,GLPG.AS,51,12,66,63,56,538
+Ucb SA,UCB.BR,86,78,93,82,9,376
+Telenet Group Holding NV,TNET.BR,70,82,71,60,32,263
+Proximus NV,PROX.BR,68,69,75,55,41,263
+NV Bekaert SA,BEKB.BR,65,58,70,68,117,554
+Gimv Investeringsmaatschappij Voor Vlanderen NV,GIMV.BR,44,29,47,46,185,375
+Ion Beam Applications SA,IBAB.BR,71,49,68,86,35,329
+Solvay SA,SOLB.BR,83,86,76,87,5,326
+Kinepolis Group NV,KIPO.BR,32,34,39,18,211,322
+Sioen Industries NV,SIOE.BR,32,29,44,11,94,118
+Van de Velde NV,VELD.BR,51,32,72,23,54,118
+Oxurion NV,OXUR.BR,38,12,70,27,156,538
+Melexis NV,MLXS.BR,52,70,59,17,91,232
+Orange Belgium SA,OBEL.BR,53,33,50,75,89,263
+Intervest Offices & Warehouses NV,PRIF.BR,39,27,47,45,264,452
+AGFA Gevaert NV,AGFB.BR,61,63,85,28,64,329
+Retail Estates NV,RETE.BR,55,45,45,74,154,452
+Nyrstar NV,NYR.BR,54,50,46,72,193,555
+Greenyard NV,GREENY.BR,60,90,60,28,113,375
+Warehouses de Pauw NV,WDPP.BR,59,67,73,37,122,452
+Euronav NV,EUAV.BR,57,60,31,89,64,219
+Groep Brussel Lambert NV,GBLB.BR,72,61,82,76,6,54
+Exmar NV,EXMR.BR,34,40,41,16,138,219
+Elia Group SA,ELI.BR,52,50,65,38,108,263
+Aedifica SA,AOO.BR,65,74,65,54,88,452
+KBC Ancora BV,KBCA.BR,18,0,3,35,340,375
+Lazard Ltd,LAZ,67,57,58,77,53,375
+Tessenderlo Group NV,TESB.BR,43,44,43,40,174,326
+Petra Diamonds Ltd,PDL.L,78,77,67,97,39,555
+Lancashire Holdings Ltd,LRE.L,54,14,37,86,115,305
+Nordic American Tanker Ltd,NAT,10,8,12,9,213,219
+Assured Guaranty Ltd,AGO,61,55,43,86,74,305
+Teekay Corp,TK,49,48,46,55,90,219
+Gulf Keystone Petroleum Ltd,GKP.L,42,24,30,91,168,410
+SFL Corporation Ltd,SFL,19,18,11,30,189,219
+Enstar Group Ltd,ESGR.O,53,30,34,83,117,305
+Golden Ocean Group Ltd,GOGL.O,28,30,30,22,127,175
+Frontline Ltd,FRO.OL,28,24,29,31,161,219
+AXIS Capital Holdings Ltd,AXS,65,74,65,63,61,305
+Banco Bradesco SA,BBDC4.SA,82,86,90,69,38,996
+Alpargatas SA,ALPA4.SA,21,8,22,29,106,118
+Light SA,LIGT3.SA,66,55,62,90,56,263
+Braskem SA,BRKM5.SA,52,53,46,61,141,326
+Itau Unibanco Holding SA,ITUB4.SA,87,84,93,79,15,996
+Mahle Metal Leve SA,LEVE3.SA,31,49,31,6,172,231
+Companhia Energetica de Minas Gerais CEMIG,CMIG4.SA,72,85,75,45,38,263
+Centrais Eletricas Brasileiras SA,ELET6.SA,82,86,82,76,12,263
+Lojas Americanas SA,LAME4.SA,69,61,79,66,17,111
+BRF SA,BRFS3.SA,79,82,74,85,27,375
+CESP Companhia Energetica de Sao Paulo,CESP6.SA,47,53,44,39,133,263
+Vale SA,VALE3.SA,88,90,86,87,2,555
+Petroleo Brasileiro SA Petrobras,PETR4.SA,76,62,86,78,22,410
+EDP Energias do Brasil SA,ENBR3.SA,70,72,69,70,41,263
+Odontoprev SA,ODPV3.SA,68,82,75,53,21,181
+Cia Hering,HGTX3.SA,62,55,68,55,28,118
+Metalurgica Gerdau SA,GOAU4.SA,70,65,81,58,87,555
+WEG SA,WEGE3.SA,58,62,60,50,182,554
+Tupy SA,TUPY3.SA,36,25,36,51,154,231
+SLC Agricola SA,SLCE3.SA,35,50,30,29,248,375
+Energisa SA,ENGI4.SA,40,29,38,61,169,263
+Sul America SA,SULA11.SA,77,68,74,84,19,305
+Duratex SA,DTEX3.SA,82,81,89,75,4,74
+Marfrig Global Foods SA,MRFG3.SA,62,81,53,54,105,375
+Oi SA em Recuperacao Judicial,OIBR4.SA,56,46,52,74,80,263
+Marcopolo SA,POMO4.SA,26,0,27,57,450,554
+Gol Linhas Aereas Inteligentes SA,GOLL4.SA,49,41,44,67,60,114
+Embraer SA,EMBR3.SA,66,59,65,74,22,109
+Lojas Renner SA,LREN3.SA,88,83,91,88,2,266
+Randon SA Implementos e Participacoes,RAPT4.SA,52,73,53,27,228,554
+Usinas Siderurgicas de Minas Gerais SA USIMINAS,USIM5.SA,65,59,66,70,121,555
+Companhia Paranaense de Energia,CPLE6.SA,84,92,87,64,7,263
+Via Varejo SA,VVAR3.SA,49,51,55,41,114,266
+Rossi Residencial SA,RSID3.SA,26,7,32,38,314,400
+Companhia de Saneamento Basico do Estado de Sao Paulo SABESP,SBSP3.SA,51,40,64,53,15,38
+Banco do Brasil SA,BBAS3.SA,77,84,85,61,67,996
+Iochpe Maxion SA,MYPK3.SA,17,0,14,44,210,231
+Companhia Brasileira de Distribuicao,PCAR3.SA,70,66,73,69,25,151
+Bradespar SA,BRAP4.SA,21,14,27,24,36,54
+Itausa SA,ITSA4.SA,59,16,84,43,214,996
+Construtora Tenda SA,TEND3.SA,5,0,1,13,397,400
+CPFL Energia SA,CPFE3.SA,69,82,59,60,46,263
+YDUQS Participacoes SA,YDUQ3.SA,44,23,41,69,3,7
+Iguatemi Empresa de Shopping Centers SA,IGTA3.SA,26,5,33,38,318,400
+Terra Santa Agro SA,TESA3.SA,23,12,30,23,301,375
+Minerva SA,BEEF3.SA,51,70,52,27,165,375
+Telefonica Brasil SA,VIVT3.SA,58,49,51,78,75,263
+MRV Engenharia e Participacoes SA,MRVE3.SA,66,55,77,63,68,400
+Cyrela Brazil Realty SA Empreendimentos e Participacoes,CYRE3.SA,29,23,41,22,291,400
+Engie Brasil Energia SA,EGIE3.SA,88,87,87,89,2,263
+BR Malls Participacoes SA,BRML3.SA,37,20,45,46,241,400
+M Dias Branco SA Industria e Comercio de Alimentos,MDIA3.SA,60,57,56,71,114,375
+Klabin SA,KLBN4.SA,70,85,78,34,14,74
+Petrobras Distribuidora SA,BRDT3.SA,71,47,80,90,25,401
+CCR SA,CCRO3.SA,65,46,82,60,21,100
+Cogna Educacao SA,COGN3.SA,58,46,40,83,7,31
+Rumo SA,RAIL3.SA,54,66,61,31,58,175
+CTEEP Companhia de Transmissao de Energia Eletrica Paulista,TRPL4.SA,41,23,59,49,160,263
+Banco do Estado do Rio Grande do Sul SA,BRSR6.SA,25,3,28,30,818,996
+Guararapes Confeccoes SA,GUAR3.SA,10,9,9,11,265,266
+Raia Drogasil SA,RADL3.SA,58,57,57,59,51,151
+Ultrapar Participacoes SA,UGPA3.SA,66,60,71,68,57,410
+Gafisa SA,GFSA3.SA,41,6,43,81,85,157
+Valid Solucoes SA,VLID3.SA,33,12,52,23,278,443
+Totvs SA,TOTS3.SA,81,48,82,89,16,813
+Sao Martinho SA,SMTO3.SA,51,58,49,48,164,375
+Localiza Rent a Car SA,RENT3.SA,63,34,70,85,28,114
+Porto Seguro SA,PSSA3.SA,35,17,44,32,203,305
+Santos Brasil Participacoes SA,STBP3.SA,66,66,63,70,19,100
+Companhia de Saneamento do Parana Sanepar,SAPR4.SA,42,48,41,34,22,38
+Even Construtora e Incorporadora SA,EVEN3.SA,10,10,6,13,386,400
+Grendene SA,GRND3.SA,21,32,20,17,105,118
+PDG Realty SA Empreendimentos e Participacoes,PDGR3.SA,15,5,21,18,374,400
+EZTEC Empreendimentos e Participacoes SA,EZTC3.SA,24,18,7,49,328,400
+Eneva SA,ENEV3.SA,60,51,61,72,79,263
+Cosan SA,CSAN3.SA,27,18,29,37,253,410
+Diagnosticos da America SA,DASA3.SA,42,61,43,31,86,181
+JBS SA,JBSS3.SA,79,90,72,78,28,375
+Banco ABC Brasil SA,ABCB4.SA,14,0,11,24,958,996
+B2W Companhia Digital,BTOW3.SA,69,80,52,78,14,111
+MMX Mineracao e Metalicos SA Em Recuperacao Judicial,MMXM3.SA,7,0,1,29,541,555
+Equatorial Energia SA,EQTL3.SA,42,21,72,41,157,263
+Multiplan Empreendimentos Imobiliarios SA,MULT3.SA,56,67,53,51,125,400
+Transmissora Alianca de Energia Eletrica SA,TAEE11.SA,39,25,46,51,176,263
+Companhia de Saneamento de Minas Gerais Copasa MG,CSMG3.SA,8,0,11,18,38,38
+Gem Diamonds Ltd,GEMD.L,53,39,42,90,200,555
+Suzano SA,SUZB3.SA,70,62,84,68,15,74
+Advantage Oil & Gas Ltd,AAV.TO,37,30,40,43,194,410
+Cameco Corp,CCO.TO,84,90,93,70,1,15
+ARC Resources Ltd,ARX.TO,49,37,45,75,144,410
+Aecon Group Inc,ARE.TO,63,43,69,82,54,224
+Linamar Corp,LNR.TO,46,61,44,30,122,231
+Crombie Real Estate Investment Trust,CRR_u.TO,45,24,43,70,220,452
+Wallbridge Mining Company Ltd,WM.TO,18,0,13,52,439,555
+RF Capital Group Inc,RCG.TO,23,0,47,10,313,375
+Equitable Group Inc,EQB.TO,55,17,47,80,255,996
+Oppenheimer Holdings Inc,OPY,40,1,45,48,208,375
+Dundee Corp,DCa.TO,13,8,15,13,343,375
+Morneau Shepell Inc,MSI.TO,79,39,76,92,15,443
+Great Canadian Gaming Corp,GC.TO,39,15,36,67,175,322
+BCE Inc,BCE.TO,70,81,72,57,34,263
+Bank of Nova Scotia,BNS.TO,81,96,90,62,43,996
+Canadian National Railway Co,CNR.TO,78,72,82,78,7,175
+Bank of Montreal,BMO.TO,86,96,93,72,17,996
+Canadian Imperial Bank of Commerce,CM.TO,75,83,90,51,81,996
+Canfor Corp,CFP.TO,52,70,38,36,30,74
+Finning International Inc,FTT.TO,58,38,62,76,183,554
+Canadian Utilities Ltd,CU.TO,30,22,27,49,38,44
+Great-West Lifeco Inc,GWO.TO,51,38,50,56,128,305
+Laurentian Bank of Canada,LB.TO,51,54,46,56,307,996
+Loblaw Companies Ltd,L.TO,76,74,76,76,15,151
+CCL Industries Inc,CCLb.TO,44,48,28,64,44,64
+Enbridge Inc,ENB.TO,80,96,79,63,10,219
+Canadian Tire Corporation Ltd,CTCa.TO,64,80,71,44,28,111
+Methanex Corp,MX.TO,42,37,39,56,180,326
+Metro Inc,MRU.TO,46,45,48,45,76,151
+Westshore Terminals Investment Corp,WTE.TO,10,17,3,12,97,100
+Russel Metals Inc,RUS.TO,45,33,33,84,246,555
+Enghouse Systems Ltd,ENGH.TO,23,0,25,29,656,813
+Freehold Royalties Ltd,FRU.TO,25,4,15,75,263,410
+InterRent Real Estate Investment Trust,IIP_u.TO,45,37,37,62,216,452
+Superior Plus Corp,SPB.TO,33,2,30,84,41,57
+Atco Ltd,ACOx.TO,39,44,17,60,30,44
+Saputo Inc,SAP.TO,66,81,69,46,78,375
+Bombardier Inc,BBDb.TO,70,82,73,57,15,109
+Golden Star Resources Ltd,GSC.TO,51,43,57,55,209,555
+Reitmans Canada Ltd,RETa.V,26,11,44,14,226,266
+Power Corporation of Canada,POW.TO,61,82,85,25,75,305
+George Weston Ltd,WN.TO,23,4,24,37,118,151
+Gabriel Resources Ltd,GBU.V,18,15,26,10,440,555
+Dorel Industries Inc,DIIb.TO,31,19,44,27,45,71
+Boralex Inc,BLX.TO,42,40,36,54,159,263
+Transcontinental Inc,TCLa.TO,49,66,22,66,34,64
+Allied Properties Real Estate Investment Trust,AP_u.TO,70,68,52,90,58,452
+Crescent Point Energy Corp,CPG.TO,52,38,39,94,128,410
+Alimentation Couche-Tard Inc,ATDb.TO,44,54,35,44,163,402
+Exco Technologies Ltd,XTC.TO,16,9,11,36,212,231
+Stantec Inc,STN.TO,79,84,84,64,14,224
+Bonterra Energy Corp,BNE.TO,19,2,24,36,315,410
+Uni-Select Inc,UNS.TO,34,31,28,49,160,231
+Village Farms International Inc,VFF.TO,12,9,8,20,345,375
+Badger Daylighting Ltd,BAD.TO,36,11,23,89,146,224
+Novanta Inc,NOVT.O,60,71,76,27,30,120
+Jaguar Mining Inc,JAG.TO,33,25,33,42,323,555
+NFI Group Inc,NFI.TO,73,75,87,52,64,554
+Birchcliff Energy Ltd,BIR.TO,33,35,21,52,206,410
+Boardwalk Real Estate Investment Trust,BEI_u.TO,60,40,62,83,116,452
+ATS Automation Tooling Systems Inc,ATA.TO,57,61,51,58,192,554
+Intertape Polymer Group Inc,ITP.TO,48,50,27,83,35,64
+Sherritt International Corp,S.TO,78,79,81,69,40,555
+Brookfield Asset Management Inc,BAMa.TO,76,83,63,84,25,375
+Cargojet Inc,CJT.TO,26,9,30,43,132,175
+Candente Copper Corp,DNT.TO,32,25,34,39,329,555
+Endeavour Silver Corp,EDR.TO,70,74,59,81,89,555
+Ensign Energy Services Inc,ESI.TO,46,31,33,80,106,219
+Maple Leaf Foods Inc,MFI.TO,62,58,65,61,104,375
+Imax Corp,IMAX.K,34,5,31,48,147,256
+AGF Management Ltd,AGFb.TO,52,23,56,58,140,375
+Pan American Silver Corp,PAAS.TO,80,75,84,78,31,555
+Eldorado Gold Corp,ELD.TO,77,71,83,76,43,555
+Imperial Oil Ltd,IMO.TO,65,51,67,79,64,410
+Transat AT Inc,TRZ.TO,52,61,44,57,106,322
+Turquoise Hill Resources Ltd,TRQ.TO,44,32,43,64,253,555
+RioCan Real Estate Investment Trust,REI_u.TO,69,77,67,62,64,452
+Thomson Reuters Corp,TRI.TO,55,63,74,25,124,443
+Mullen Group Ltd,MTL.TO,51,18,54,86,67,175
+Atlantic Power Corp,AT,12,1,13,30,251,263
+Nuvista Energy Ltd,NVA.TO,51,42,42,81,131,410
+Baytex Energy Corp,BTE.TO,51,39,42,86,129,410
+SmartCentres Real Estate Investment Trust,SRU_u.TO,29,36,34,16,346,452
+Sun Life Financial Inc,SLF.TO,77,90,81,69,20,305
+SNC-Lavalin Group Inc,SNC.TO,73,82,68,68,22,224
+Teck Resources Ltd,TECK.K,81,85,95,52,23,555
+Winpak Ltd,WPK.TO,35,29,34,44,50,64
+CGI Inc,GIBa.TO,65,77,82,46,88,813
+TransAlta Corp,TA.TO,60,75,49,47,80,263
+Morguard Corp,MRC.TO,49,61,52,34,171,400
+Emera Inc,EMA.TO,49,39,44,73,118,263
+Empire Company Ltd,EMPa.TO,55,49,44,76,57,151
+Magna International Inc,MG.TO,55,45,64,51,84,231
+Suncor Energy Inc,SU.TO,72,76,70,72,33,410
+Rogers Communications Inc,RCIb.TO,69,81,72,53,40,263
+Interfor Corp,IFP.TO,56,50,49,77,24,74
+Canadian Pacific Railway Ltd,CP.TO,84,78,95,79,2,175
+Toromont Industries Ltd,TIH.TO,50,40,39,77,244,554
+Quebecor Inc,QBRb.TO,40,21,31,71,132,263
+Cascades Inc,CAS.TO,68,89,62,45,15,64
+Leon's Furniture Ltd,LNF.TO,11,12,15,7,107,111
+Agnico Eagle Mines Ltd,AEM.TO,72,63,79,72,74,555
+Canadian Western Bank,CWB.TO,63,31,63,77,174,996
+Martinrea International Inc,MRE.TO,48,26,52,72,115,231
+West Fraser Timber Co Ltd,WFT.TO,75,78,61,88,6,56
+H&R Real Estate Investment Trust,HR_u.TO,49,25,47,79,191,452
+Husky Energy Inc,HSE.TO,54,66,60,24,120,410
+Enerplus Corp,ERF.TO,54,44,46,80,122,410
+Alpha Pro Tech Ltd,APT,32,0,14,71,191,329
+TFI International Inc,TFII.TO,29,12,17,64,126,175
+Seabridge Gold Inc,SEA.TO,23,27,19,25,389,555
+Liminal BioSciences Inc,LMNL.O,17,0,35,11,490,538
+Heroux Devtek Inc,HRX.TO,33,0,54,28,71,109
+Colossus Minerals Inc,COLUF.PK,14,0,21,23,480,555
+BlackBerry Ltd,BB.TO,70,69,78,63,52,813
+Telus Corp,T.TO,80,82,80,79,12,263
+Celestica Inc,CLS.TO,76,88,83,52,7,120
+Cogeco Communications Inc,CCA.TO,83,76,92,75,5,256
+Dream Office Real Estate Investment Trust,D_u.TO,66,74,64,58,85,452
+CES Energy Solutions Corp,CEU.TO,26,14,19,50,170,219
+E-L Financial Corp Ltd,ELF.TO,11,0,8,18,299,305
+Fortis Inc,FTS.TO,79,76,73,93,19,263
+Constellation Software Inc,CSU.TO,12,0,2,24,794,813
+Dundee Precious Metals Inc,DPM.TO,64,59,69,63,127,555
+Endeavour Mining Corp,EDV.TO,83,84,87,75,17,555
+Colliers International Group Inc,CIGI.TO,50,45,39,66,168,400
+Lions Gate Entertainment Corp,LGFa,38,0,37,53,128,256
+VBI Vaccines Inc,VBIV.O,40,0,56,53,123,538
+Ritchie Bros. Auctioneers Inc,RBA.TO,52,26,45,80,144,443
+goeasy Ltd,GSY.TO,31,0,20,60,669,996
+SSR Mining Inc,SSRM.O,52,63,53,34,203,555
+Sunopta Inc,SOY.TO,35,37,23,53,251,375
+Taseko Mines Ltd,TKO.TO,50,48,44,63,220,555
+TransGlobe Energy Corp,TGL.TO,20,5,12,56,308,410
+Tanzanian Gold Corp,TNX.TO,22,7,19,47,400,555
+Corus Entertainment Inc,CJRb.TO,31,29,42,16,165,256
+Brookfield Infrastructure Partners LP,BIP,48,54,46,42,27,61
+Labrador Iron Ore Royalty Corp,LIF.TO,18,2,28,22,447,555
+Onex Corp,ONEX.TO,28,5,35,29,288,375
+IGM Financial Inc,IGM.TO,66,96,85,41,57,375
+Shaw Communications Inc,SJRb.TO,46,46,43,52,106,263
+Fairfax Financial Holdings Ltd,FFH.TO,26,6,32,27,243,305
+Innergex Renewable Energy Inc,INE.TO,65,72,62,55,62,263
+Major Drilling Group International Inc,MDI.TO,29,2,21,82,342,555
+MAG Silver Corp,MAG.TO,44,7,63,67,254,555
+Wajax Corp,WJX.TO,49,41,41,67,258,554
+Richelieu Hardware Ltd,RCH.TO,26,33,13,39,123,157
+Western Forest Products Inc,WEF.TO,48,27,51,85,38,74
+Sierra Wireless Inc,SWIR.O,60,67,63,52,34,124
+Lassonde Industries Inc,LASa.TO,9,12,9,3,360,375
+Computer Modelling Group Ltd,CMG.TO,38,13,33,49,415,813
+Chorus Aviation Inc,CHR.TO,51,26,56,71,57,114
+AutoCanada Inc,ACQ.TO,30,0,29,47,215,266
+Centerra Gold Inc,CG.TO,68,70,73,55,98,555
+Kinross Gold Corp,K.TO,77,68,86,75,42,555
+First Majestic Silver Corp,FR.TO,58,55,52,71,163,555
+NovaGold Resources Inc,NG,46,26,47,75,244,555
+Pason Systems Inc,PSI.TO,30,16,28,48,152,219
+Trican Well Service Ltd,TCW.TO,37,31,39,40,130,219
+Northland Power Inc,NPI.TO,56,57,43,72,94,263
+First Quantum Minerals Ltd,FM.TO,73,73,63,89,64,555
+Lululemon Athletica Inc,LULU.O,47,51,35,66,58,118
+Westport Fuel Systems Inc,WPRT.TO,57,58,51,67,75,231
+Northern Dynasty Minerals Ltd,NDM.TO,21,13,20,35,406,555
+Energy Fuels Inc,EFR.TO,56,43,45,84,4,15
+Mercator Minerals Ltd,MLKKF.PK,5,0,7,8,548,555
+Canadian Apartment Properties Real Estate Investment Trust,CAR_u.TO,71,62,73,81,50,452
+Richards Packaging Income Fund,RPI_u.TO,7,0,5,21,64,64
+Battle North Gold Corp,BNAU.TO,11,0,15,21,505,555
+Lundin Gold Inc,LUG.TO,57,59,66,39,180,555
+ACE Aviation Holdings Inc,ACEh.V,17,2,27,18,105,114
+Keyera Corp,KEY.TO,57,62,41,75,61,219
+Manulife Financial Corp,MFC.TO,72,73,74,70,34,305
+Domtar Corp,UFS,74,75,63,86,11,74
+Eastern Platinum Ltd,ELR.TO,19,10,22,29,431,555
+Alcanna Inc,CLIQ.TO,17,0,23,23,130,151
+Galiano Gold Inc,GAU.TO,50,39,58,54,217,555
+Wesdome Gold Mines Ltd,WDO.TO,55,55,35,85,190,555
+Cominar REIT,CUF_u.TO,56,29,58,86,143,452
+Fennec Pharmaceuticals Inc,FENC.O,26,0,21,49,323,538
+Perpetual Energy Inc,PMT.TO,17,13,24,12,328,410
+China Gold International Resources Corp Ltd,CGG.TO,60,78,55,41,156,555
+Toronto-Dominion Bank,TD.TO,75,84,84,58,84,996
+National Bank of Canada,NA.TO,70,86,88,38,121,996
+Artis Real Estate Investment Trust,AX_u.TO,31,3,43,52,330,452
+TC Energy Corp,TRP.TO,61,79,48,59,46,219
+Intact Financial Corp,IFC.TO,54,33,58,57,113,305
+Wheaton Precious Metals Corp,WPM.TO,56,51,58,58,185,555
+Sears Canada Inc,SRSCQ.PK,66,83,76,42,24,111
+Premier Gold Mines Ltd,PG.TO,11,0,19,12,510,555
+Chartwell Retirement Residences,CSH_u.TO,65,66,51,81,26,181
+WildBrain Ltd,WILD.TO,35,0,31,53,141,256
+SouthGobi Resources Ltd,SGQ.TO,58,67,59,45,16,55
+Inter Pipeline Ltd,IPL.TO,53,45,42,77,75,219
+Franco-Nevada Corp,FNV.TO,63,57,63,71,136,555
+UEX Corp,UEX.TO,28,10,21,59,13,15
+Calfrac Well Services Ltd,CFW.TO,25,25,24,27,172,219
+B2Gold Corp,BTO.TO,80,72,85,84,27,555
+Capstone Mining Corp,CS.TO,52,56,37,70,206,555
+Denison Mines Corp,DML.TO,53,49,64,50,5,15
+Silvercorp Metals Inc,SVM.TO,61,68,59,56,145,555
+Fortuna Silver Mines Inc,FVI.TO,69,71,83,42,95,555
+Air Canada,AC.TO,65,55,59,83,25,114
+Nagacorp Ltd,3918.HK,85,85,85,85,6,322
+Herbalife Nutrition Ltd,HLF,45,13,58,59,199,375
+Consolidated Water Co Ltd,CWCO.O,42,16,47,78,23,38
+Cap SA,CAP.SN,54,60,68,23,192,555
+Masisa SA,MASISA.SN,49,60,26,57,37,74
+Compania Cervecerias Unidas SA,CCU.SN,56,60,60,45,43,112
+AES Gener SA,AESGENER.SN,62,51,69,74,54,239
+Compania Sud Americana de Vapores SA,VAPORES.SN,21,3,35,24,153,175
+Empresa Nacional de Telecomunicaciones SA,ENTEL.SN,55,33,70,42,83,263
+Empresas Copec SA,COPEC.SN,57,70,59,33,102,410
+Empresas CMPC SA,CMPC.SN,72,74,65,79,13,74
+Colbun SA,COLBUN.SN,78,82,66,86,23,263
+Enel Generacion Chile SA,ENELGXCH.SN,50,58,65,17,115,263
+Enel Americas SA,ENELAM.SN,83,84,91,70,9,263
+Antarchile SA,ANTARCHILE.SN,8,1,14,9,396,410
+Parque Arauco SA,PARAUCO.SN,63,73,87,25,85,400
+Sociedad Quimica y Minera de Chile SA,SQMA.SN,72,66,76,77,47,326
+Concha y Toro Winery Inc,CONCHATORO.SN,75,83,70,77,13,112
+SalfaCorp SA,SALFACORP.SN,29,25,45,12,173,224
+Besalco SA,BESALCO.SN,25,13,31,34,184,224
+Grupo Security SA,SECURITY.SN,53,3,57,68,268,996
+ENGIE Energia Chile SA,ECL.SN,49,38,63,51,116,263
+Embotelladora Andina SA,ANDINAB.SN,80,74,85,77,6,112
+Quinenco SA,QUINENCO.SN,18,15,6,42,327,410
+Falabella SA,FALABELLA.SN,76,71,90,66,7,111
+Aguas Andinas SA,AGUASA.SN,67,66,79,55,6,38
+Banco Santander-Chile,BSANTANDER.SN,85,81,87,85,19,996
+LATAM Airlines Group SA,LTM.SN,72,60,79,72,13,114
+Ripley Corp SA,RIPLEY.SN,15,0,3,41,103,111
+Coca Cola Embonor SA,EMBONORB.SN,43,51,50,18,60,112
+Itau Corpbanca,ITAUCORP.SN,50,14,50,64,326,996
+Empresas Gasco SA,GASCO.SN,38,28,33,59,37,57
+Banco de Credito e Inversiones,BCI.SN,52,57,67,30,288,996
+Sigdo Koppers SA,SK.SN,16,16,17,13,53,61
+Forus SA,FORUS.SN,13,7,21,8,259,266
+Cencosud SA,CENCOSUD.SN,55,44,63,49,56,151
+Inversiones Aguas Metropolitanas SA,IAM.SN,23,11,21,44,31,38
+Banco de Chile,CHILE.SN,53,42,65,40,279,996
+Sonda SA,SONDA.SN,34,34,45,24,487,813
+Empresas la Polar SA,NUEVAPOLAR.SN,2,0,2,4,111,111
+Sociedad de Inversiones Oro Blanco SA,OROBLANCO.SN,3,0,4,6,53,54
+Shanghai Pudong Development Bank Co Ltd,600000.SS,46,68,42,43,391,996
+Hubei Energy Group Co Ltd,000883.SZ,26,18,28,38,230,263
+Yonyou Network Technology Co Ltd,600588.SS,42,27,53,37,349,813
+SDIC Capital Co Ltd,600061.SS,39,4,19,65,222,375
+Sichuan Languang Development Co Ltd,600466.SS,46,32,73,29,206,400
+Haier Smart Home Co Ltd,600690.SS,55,85,48,25,24,71
+China Jinmao Holdings Group Ltd,0817.HK,61,68,48,68,98,400
+AVIC Capital Co Ltd,600705.SS,49,76,35,58,337,996
+Suzhou Gold Mantis Construction Decoration Co Ltd,002081.SZ,30,10,18,75,167,224
+China Construction Bank Corp,601939.SS,64,60,56,77,165,996
+Minth Group Ltd,0425.HK,55,54,39,84,82,231
+Bank of China Ltd,601988.SS,64,58,64,67,166,996
+China Aerospace Times Electronics Co Ltd,600879.SS,33,6,28,60,70,109
+China Greatwall Technology Group Co Ltd,000066.SZ,23,10,25,30,85,110
+Aecc Aero Engine Control Co Ltd,000738.SZ,21,19,12,34,92,109
+China Medical System Holdings Ltd,0867.HK,65,76,48,83,66,376
+NanJi E-Commerce Co Ltd,002127.SZ,42,0,12,80,354,813
+Tbea Co Ltd,600089.SS,34,18,13,82,379,554
+Sinopec Shanghai Petrochemical Co Ltd,600688.SS,62,84,41,67,79,410
+Meinian Onehealth Healthcare Holdings Co Ltd,002044.SZ,37,35,32,44,106,181
+Chengdu Xingrong Environment Co Ltd,000598.SZ,52,51,45,61,14,38
+SDIC Power Holdings Co Ltd,600886.SS,35,41,22,41,195,263
+Industrial and Commercial Bank of China Ltd,601398.SS,62,48,58,72,190,996
+Apeloa Pharmaceutical Co Ltd,000739.SZ,31,19,20,56,208,376
+Shanghai Fosun Pharmaceutical Group Co Ltd,600196.SS,72,68,82,60,36,376
+Youngor Group Co Ltd,600177.SS,27,2,7,81,98,118
+Hangzhou Silan Microelectronics Co Ltd,600460.SS,17,27,13,11,208,232
+Aisino Corp,600271.SS,44,45,20,85,2,5
+Zhejiang Longsheng Group Co Ltd,600352.SS,18,23,8,26,291,326
+Xinjiang Zhongtai Chemical Co Ltd,002092.SZ,35,18,20,91,209,326
+China Merchants Bank Co Ltd,600036.SS,51,56,65,29,311,996
+Kaile Science and Technology Co Ltd Hubei,600260.SS,22,1,9,47,104,124
+Shanghai Yuyuan Tourist Mart Group Co Ltd,600655.SS,38,40,54,18,172,266
+China Vanke Co Ltd,000002.SZ,60,88,55,37,106,400
+China Shenhua Energy Co Ltd,601088.SS,73,91,73,47,6,55
+Greenland Holdings Corp Ltd,600606.SS,12,0,10,30,216,224
+Shanghai International Airport Co Ltd,600009.SS,21,10,21,32,91,100
+Hongfa Technology Co Ltd,600885.SS,24,9,14,57,98,120
+Tianjin Zhonghuan Semiconductor Ltd,002129.SZ,51,56,45,51,26,71
+Holitech Technology Co Ltd,002217.SZ,22,23,14,28,103,120
+Hengli Petrochemical Co Ltd,600346.SS,29,17,12,79,239,326
+Bank of Nanjing Co Ltd,601009.SS,37,13,22,67,552,996
+CSG Holding Co Ltd,000012.SZ,29,44,11,32,240,326
+CITIC Securities Co Ltd,600030.SS,51,61,32,64,146,375
+Shanghai Jahwa United Co Ltd,600315.SS,48,47,34,77,41,94
+China Spacesat Co Ltd,600118.SS,26,1,11,66,83,109
+Grandjoy Holdings Group Co Ltd,000031.SZ,42,48,43,36,214,400
+Guocheng Mining Co Ltd,000688.SZ,22,16,6,56,399,555
+Hubei Biocause Pharmaceutical Co Ltd,000627.SZ,47,6,34,75,141,305
+Zhejiang Jiahua Energy Chemical Industry Co Ltd,600273.SS,31,36,15,51,228,326
+Xiamen C&D Inc,600153.SS,35,58,21,35,12,18
+Transfar Zhilian Co Ltd,002010.SZ,7,17,2,0,173,175
+Inner Mongolia BaoTou Steel Union Co Ltd,600010.SS,37,36,18,69,300,555
+Guangdong Hec Technology Holding Co Ltd,600673.SS,30,33,18,45,340,555
+Shanghai AJ Group Co Ltd,600643.SS,9,0,13,8,365,375
+China Enterprise Co Ltd,600675.SS,50,57,56,38,163,400
+Livzon Pharmaceutical Group Inc,000513.SZ,58,62,63,46,91,376
+Sichuan Chuantou Energy Co Ltd,600674.SS,33,19,18,74,201,263
+China National Accord Medicines Corp Ltd,000028.SZ,30,28,29,32,216,376
+Tsingtao Brewery Co Ltd,600600.SS,52,49,36,84,47,112
+Yanlord Land Group Ltd,YNLG.SI,34,44,40,17,264,400
+Shanghai Waigaoqiao Free Trade Zone Group Co Ltd,600648.SS,46,47,48,43,203,400
+Wanhua Chemical Group Co Ltd,600309.SS,44,50,53,18,170,326
+Shanghai Lujiazui Finance & Trade Zone Development Co Ltd,600663.SS,37,34,41,36,242,400
+3SBio Inc,1530.HK,67,64,65,73,59,376
+China Avionics Systems Co Ltd,600372.SS,20,2,16,39,98,109
+Jiangsu Zhongnan Construction Group Co Ltd,000961.SZ,22,8,14,45,338,400
+Bank of Ningbo Co Ltd,002142.SZ,51,47,34,76,301,996
+China Oilfield Services Ltd,601808.SS,51,66,39,52,81,219
+Zhejiang Supor Co Ltd,002032.SZ,57,55,58,58,21,71
+Tong Ren Tang Technologies Co Ltd,1666.HK,54,45,43,78,103,376
+Greentown China Holdings Ltd,3900.HK,47,66,45,31,190,400
+Shanxi Meijin Energy Co Ltd,000723.SZ,24,22,4,58,380,555
+HUAYU Automotive Systems Co Ltd,600741.SS,28,23,25,39,182,231
+Yunnan Baiyao Group Co Ltd,000538.SZ,42,55,43,29,163,376
+China Gezhouba Group Co Ltd,600068.SS,43,43,19,76,116,224
+AVIC Electromechanical Systems Co Ltd,002013.SZ,21,13,8,44,96,109
+China Grand Automotive Services Group Co Ltd,600297.SS,23,18,11,52,194,231
+Hua Xia Bank Co Ltd,600015.SS,42,29,34,58,461,996
+Kweichow Moutai Co Ltd,600519.SS,25,31,14,39,87,112
+Yuan Longping High-tech Agriculture Co Ltd,000998.SZ,11,5,11,18,349,375
+Inner Mongolia MengDian HuaNeng Thermal Power Corp Ltd,600863.SS,28,21,3,72,226,263
+China International Marine Containers Group Co Ltd,000039.SZ,52,39,43,78,236,554
+Huaxin Cement Co Ltd,600801.SS,33,23,11,81,63,85
+Shanghai Tunnel Engineering Co Ltd,600820.SS,43,44,23,71,114,224
+XCMG Construction Machinery Co Ltd,000425.SZ,28,29,9,51,437,554
+Tech-bank Food Co Ltd,002124.SZ,34,37,38,21,255,375
+Guangzhou Yuexiu Financial Holdings Group Co Ltd,000987.SZ,26,30,29,22,298,375
+Hla Corp Ltd,600398.SS,23,2,16,48,103,118
+Inspur Electronic Information Industry Co Ltd,000977.SZ,30,35,30,27,75,110
+China Meheco Group Co Ltd,600056.SS,23,18,13,41,276,376
+Shanghai Baosight Software Co Ltd,600845.SS,46,43,12,77,280,813
+Anhui Expressway Co Ltd,600012.SS,36,44,28,38,76,100
+Guangshen Railway Co Ltd,601333.SS,39,22,36,62,73,114
+China Evergrande Group,3333.HK,47,59,52,30,192,400
+Shanghai Jin Jiang International Hotels Co Ltd,600754.SS,45,16,49,65,146,322
+Weifu High-Technology Group Co Ltd,000581.SZ,23,23,8,49,196,231
+Anhui Gujing Distillery Co Ltd,000596.SZ,15,16,12,20,99,112
+Tongling Nonferrous Metals Group Co Ltd,000630.SZ,33,25,11,82,319,555
+Chongqing Changan Automobile Co Ltd,000625.SZ,38,36,14,82,151,231
+Shenzhen Airport Co Ltd,000089.SZ,46,36,45,58,54,100
+Sunny Optical Technology Group Co Ltd,2382.HK,76,75,74,80,6,120
+Shanghai Electric Group Co Ltd,601727.SS,70,80,72,54,77,554
+Huagong Tech Co Ltd,000988.SZ,40,34,18,72,70,120
+GF Securities Co Ltd,000776.SZ,67,83,50,77,51,375
+Bosideng International Holdings Ltd,3998.HK,57,57,55,60,41,118
+Weichai Power Co Ltd,000338.SZ,58,72,51,49,72,231
+Offshore Oil Engineering Co Ltd,600583.SS,18,9,12,38,204,224
+Guangzhou Baiyunshan Pharmaceutical Holdings Co Ltd,600332.SS,67,72,52,86,60,376
+Datang International Power Generation Co Ltd,601991.SS,39,34,24,66,174,263
+Hidili Industry International Development Ltd,1393.HK,36,13,20,81,29,55
+Hainan Airlines Holding Co Ltd,600221.SS,30,11,19,69,85,114
+Inner Mongolia Yili Industrial Group Co Ltd,600887.SS,69,77,55,85,58,375
+Shenzhen Expressway Co Ltd,600548.SS,65,81,40,87,20,100
+Inner Mongolia Yitai Coal Co Ltd,900948.SS,77,81,55,92,4,55
+China Eastern Airlines Corp Ltd,600115.SS,59,47,61,71,33,114
+Jiangxi Copper Co Ltd,600362.SS,64,71,47,83,124,555
+Angang Steel Co Ltd,000898.SZ,57,62,36,85,169,555
+China Southern Airlines Co Ltd,600029.SS,66,69,60,72,23,114
+Jilin Aodong Pharmaceutical Group Co Ltd,000623.SZ,41,32,24,73,168,376
+FangDa Carbon New Material Co Ltd,600516.SS,29,0,12,86,426,554
+Jiangsu Hengrui Medicine Co Ltd,600276.SS,24,19,22,29,267,376
+Zhejiang Expressway Co Ltd,0576.HK,61,84,43,66,27,100
+Shanxi LuAn Environmental Energy Dev Co Ltd,601699.SS,29,27,17,44,39,55
+Anhui Conch Cement Co Ltd,600585.SS,55,52,51,65,29,85
+Jiangsu Expressway Co Ltd,600377.SS,62,71,50,71,26,100
+Maanshan Iron & Steel Co Ltd,600808.SS,60,68,44,74,155,555
+Melco Resorts & Entertainment Ltd,MLCO.O,84,89,83,80,7,322
+TravelSky Technology Ltd,0696.HK,46,34,52,44,285,813
+Xinjiang Goldwind Science & Technology Co Ltd,002202.SZ,56,76,50,38,25,71
+China Minsheng Banking Corp Ltd,600016.SS,50,35,70,28,323,996
+Ningbo Joyson Electronic Corp,600699.SS,16,0,4,59,215,231
+COSCO Shipping Energy Transportation Co Ltd,600026.SS,59,66,39,79,51,219
+Asian Citrus Holdings Ltd,0073.HK,39,55,31,36,225,375
+CITIC Guoan Information Industry Co Ltd,000839.SZ,18,2,18,29,219,263
+China Railway Construction Corp Ltd,601186.SS,35,27,19,70,148,224
+Qinghai Salt Lake Industry Co Ltd,000792.SZ,33,23,16,78,219,326
+Poly Developments and Holdings Group Co Ltd,600048.SS,58,47,48,79,113,400
+Aluminum Corp of China Ltd,601600.SS,56,71,44,54,183,555
+Country Garden Holdings Co Ltd,2007.HK,81,96,79,69,13,400
+Shanghai Mechanical & Electrical Industry Co Ltd,600835.SS,28,23,16,50,432,554
+Haitong Securities Co Ltd,600837.SS,69,66,48,86,46,375
+Sino-Ocean Group Holding Ltd,3377.HK,57,47,54,70,120,400
+Haitian International Holdings Ltd,1882.HK,59,73,37,70,168,554
+China Communications Construction Co Ltd,601800.SS,63,52,67,73,55,224
+Fosun International Ltd,0656.HK,67,74,72,59,50,305
+Great Wall Motor Co Ltd,601633.SS,42,51,17,73,136,231
+Huadong Medicine Co Ltd,000963.SZ,43,53,33,52,156,376
+Xinxing Ductile Iron Pipes Co Ltd,000778.SZ,36,30,14,80,304,555
+DHC Software Co Ltd,002065.SZ,32,36,36,28,511,813
+China Petroleum & Chemical Corp,600028.SS,61,73,46,71,81,410
+Tus Environmental Science and Technology Development Co Ltd,000826.SZ,19,30,9,24,372,443
+NetEase Inc,NTES.O,68,72,70,64,66,813
+Bank of Communications Co Ltd,601328.SS,54,57,60,46,259,996
+Zoomlion Heavy Industry Science and Technology Co Ltd,000157.SZ,40,40,21,64,343,554
+Tangshan Jidong Cement Co Ltd,000401.SZ,22,17,7,53,73,85
+Yanzhou Coal Mining Co Ltd,600188.SS,74,81,57,81,5,55
+Shenzhen Energy Group Co Ltd,000027.SZ,32,28,18,58,202,263
+Semiconductor Manufacturing International Corp,0981.HK,52,47,62,40,90,232
+Nine Dragons Paper (Holdings) Ltd,2689.HK,39,37,35,46,48,64
+Shenzhen Kaifa Technology Co Ltd,000021.SZ,21,5,18,39,90,110
+Shimao Group Holdings Ltd,0813.HK,61,78,47,60,97,400
+Yunnan Tin Co Ltd,000960.SZ,58,55,47,82,161,555
+Changchun High & New Technology Industries Group Inc,000661.SZ,51,43,46,65,117,376
+Huadian Power International Corp Ltd,600027.SS,28,41,16,23,220,263
+Angel Yeast Co Ltd,600298.SS,34,33,23,56,254,375
+Fiberhome Telecommunication Technologies Co Ltd,600498.SS,58,48,63,59,37,124
+Shanying International Holdings Co Ltd,600567.SS,49,43,37,76,36,74
+Dongfang Electric Corp Ltd,600875.SS,52,60,26,75,235,554
+BOE Technology Group Co Ltd,000725.SZ,67,84,77,34,20,120
+Zhejiang China Commodities City Group Co Ltd,600415.SS,23,2,17,47,97,111
+Tunghsu Optoelectronic Technology Co Ltd,000413.SZ,35,63,17,19,81,120
+China Merchants Property Operation & Service Co Ltd,001914.SZ,9,6,7,14,389,400
+Tianshui Huatian Technology Co Ltd,002185.SZ,13,9,7,28,222,232
+Sinoma International Engineering Co Ltd,600970.SS,38,31,44,41,134,224
+Shanxi Taigang Stainless Steel Co Ltd,000825.SZ,57,63,36,81,175,555
+Ping An Bank Co Ltd,000001.SZ,50,34,67,32,327,996
+Sinotruk Hong Kong Ltd,3808.HK,49,66,46,34,254,554
+Sealand Securities Co Ltd,000750.SZ,59,56,49,68,93,375
+China Molybdenum Co Ltd,603993.SS,74,85,68,69,58,555
+Han's Laser Technology Industry Group Co Ltd,002008.SZ,39,46,10,67,350,554
+Guangzhou R&F Properties Co Ltd,2777.HK,71,52,72,89,41,400
+Shenzhen Kingdom SCI-Tech Co Ltd,600446.SS,35,0,26,52,459,813
+China Resources Sanjiu Medical & Pharmaceutical Co Ltd,000999.SZ,41,63,45,19,166,376
+China Oriental Group Co Ltd,0581.HK,37,49,25,40,297,555
+Shanxi Xishan Coal and Electricity Power Co Ltd,000983.SZ,33,28,14,57,32,55
+AVIC Jonhon Optronic Technology Co Ltd,002179.SZ,61,62,41,88,146,554
+Oceanwide Holdings Co Ltd,000046.SZ,18,16,10,28,284,305
+China Pacific Insurance Group Co Ltd,601601.SS,60,66,32,91,79,305
+Oriental Pearl Group Co Ltd,600637.SS,31,17,21,50,161,256
+Zhangzhou Pientzehuang Pharmaceutical Ltd,600436.SS,41,46,45,32,165,376
+Jinyu Bio-Technology Co Ltd,600201.SS,67,57,60,85,61,376
+Vinda International Holdings Ltd,3331.HK,61,66,63,52,30,94
+Industrial Bank Co Ltd,601166.SS,36,26,48,24,565,996
+China Citic Bank Corp Ltd,601998.SS,63,56,52,80,183,996
+Hubei Jumpcan Pharmaceutical Co Ltd,600566.SS,24,13,21,36,266,376
+Avicopter PLC,600038.SS,29,22,12,56,79,109
+Ping An Insurance Group Co of China Ltd,601318.SS,60,69,56,62,80,305
+Xiamen Tungsten Co Ltd,600549.SS,61,75,60,43,148,555
+Pacific Securities Co Ltd,601099.SS,54,7,35,84,130,375
+Anxin Trust Co Ltd,600816.SS,25,2,11,43,305,375
+China National Building Material Co Ltd,3323.HK,53,60,33,72,33,85
+China Jushi Co Ltd,600176.SS,32,13,32,45,92,118
+Huaneng Power International Inc,600011.SS,41,49,34,37,161,263
+China Life Insurance Co Ltd,601628.SS,75,37,72,91,29,305
+Hengyi Petrochemical Co Ltd,000703.SZ,24,24,19,32,270,326
+Yantai Changyu Pioneer Wine Co Ltd,000869.SZ,8,0,1,31,110,112
+Avic Shenyang Aircraft Co Ltd,600760.SS,21,31,6,33,93,109
+Newland Digital Technology Co Ltd,000997.SZ,35,0,24,52,17,34
+Luenmei Quantum Co Ltd,600167.SS,50,65,23,57,16,38
+Baidu Inc,BIDU.O,56,42,88,33,171,813
+Zhejiang Huahai Pharmaceutical Co Ltd,600521.SS,28,22,32,25,232,376
+Avic XiAn Aircraft Industry Group Co Ltd,000768.SZ,32,18,22,55,72,109
+Sinolink Securities Co Ltd,600109.SS,50,14,44,66,150,375
+Shanghai International Port Group Co Ltd,600018.SS,49,37,39,76,52,100
+Shandong Hualu Hengsheng Chemical Co Ltd,600426.SS,24,32,7,36,274,326
+PetroChina Co Ltd,601857.SS,52,59,54,41,125,410
+Henan Shuanghui Investment & Development Co Ltd,000895.SZ,52,65,43,55,152,375
+Tiandi Science & Technology Co Ltd,600582.SS,17,17,5,32,510,554
+Tianneng Power International Ltd,0819.HK,38,38,21,69,146,231
+Dr.Peng Telecom & Media Group Co Ltd,600804.SS,11,0,12,16,245,263
+Zhejiang Juhua Co Ltd,600160.SS,27,30,21,32,253,326
+Dalian Port PDA Co Ltd,601880.SS,21,12,16,38,92,100
+COSCO SHIPPING Development Co Ltd,601866.SS,37,41,35,38,553,996
+Zhejiang Wanfeng Auto Wheel Co Ltd,002085.SZ,35,22,41,42,157,231
+NARI Technology Co Ltd,600406.SS,56,69,49,59,169,813
+Jiangsu Yangnong Chemical Co Ltd,600486.SS,19,21,11,32,288,326
+Sany Heavy Industry Co Ltd,600031.SS,53,74,29,59,223,554
+Shanxi Xinghuacun Fen Wine Factory Co Ltd,600809.SS,23,18,26,22,89,112
+Baoding Tianwei Baobian Electric Co Ltd,600550.SS,44,59,9,71,298,554
+China National Medicines Corp Ltd,600511.SS,50,44,39,69,122,376
+Liaoning Cheng Da Co Ltd,600739.SS,33,35,24,44,196,376
+Zhejiang Nhu Co Ltd,002001.SZ,32,32,16,59,263,375
+Shanghai Zhangjiang Hi-Tech Park Development Co Ltd,600895.SS,47,35,54,51,197,400
+Suning.Com Co Ltd,002024.SZ,50,38,41,67,108,266
+Sansteel Minguang Co Ltd Fujian,002110.SZ,26,28,18,37,358,555
+Jiangsu Zhongtian Technology Co Ltd,600522.SS,56,63,43,65,40,124
+China High Speed Transmission Equipment Group Co Ltd,0658.HK,57,66,64,43,23,71
+Shandong Weigao Group Medical Polymer Co Ltd,1066.HK,54,41,32,89,88,329
+Baoshan Iron & Steel Co Ltd,600019.SS,8,0,2,28,537,555
+Guoxuan High-tech Co Ltd,002074.SZ,49,68,35,43,259,554
+Unigroup Guoxin Microelectronics Co Ltd,002049.SZ,23,0,15,63,195,232
+Dong-E-E-Jiao Co Ltd,000423.SZ,48,36,32,81,131,376
+China Resources Double-Crane Pharmaceutical Co Ltd,600062.SS,42,45,37,50,160,376
+Shanghai Electric Power Co Ltd,600021.SS,24,19,13,46,235,263
+KWG Group Holdings Ltd,1813.HK,50,58,37,56,167,400
+Wuxi Taiji Industry Ltd Corp,600667.SS,16,20,7,24,208,224
+China Coal Energy Co Ltd,601898.SS,40,58,31,25,27,55
+Topsec Technologies Group Inc,002212.SZ,53,6,45,73,207,813
+China Railway Hi-tech Industry Corp Ltd,600528.SS,30,34,10,52,169,224
+Shenergy Co Ltd,600642.SS,16,24,3,21,41,44
+Want Want China Holdings Ltd,0151.HK,42,66,38,24,215,375
+SINA Corp,SINA.O,15,0,20,15,778,813
+Joincare Pharmaceutical Group Industry Co Ltd,600380.SS,65,52,57,85,67,376
+Changjiang Securities Co Ltd,000783.SZ,28,6,26,36,289,375
+Shandong Sun Paper Co Ltd,002078.SZ,34,16,26,77,48,74
+Guoyuan Securities Co Ltd,000728.SZ,56,71,51,56,116,375
+Tencent Holdings Ltd,0700.HK,82,73,83,84,13,813
+Dongfeng Motor Group Co Ltd,0489.HK,62,70,47,77,56,231
+Shenzhen Overseas Chinese Town Co Ltd,000069.SZ,43,33,49,42,155,322
+Shanghai Construction Group Co Ltd,600170.SS,48,54,22,76,97,224
